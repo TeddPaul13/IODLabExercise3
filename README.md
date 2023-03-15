@@ -1,3 +1,3 @@
-# IODlLabExercise3
+# IODLabExercise3
 
 ## Flexxbox Exercise
